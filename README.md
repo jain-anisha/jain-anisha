@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Anisha!
 - 👀 I’m interested in bioinformatics, cognitive sciences, and reading about obscure topics.
-- 🌱 I’m currently learning the basics of coding and comp sci.
-- 💞️ I’m looking to collaborate on anything! 
+- 🌱 I’m currently a student of CS.
 - 📫 How to reach me: 
 - LinkedIn: jain-anisha
 
