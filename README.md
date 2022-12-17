@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anisha!
 - 👀 I’m interested in bioinformatics, cognitive sciences, and reading about obscure topics.
-- 🌱 I’m currently a student of CS.
+- 🌱 I’m currently a CS student at Ashoka University.
 - 📫 How to reach me: 
 - LinkedIn: jain-anisha
 
